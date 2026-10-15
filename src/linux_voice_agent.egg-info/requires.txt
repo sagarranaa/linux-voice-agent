@@ -1,0 +1,12 @@
+groq
+sounddevice
+soundfile
+numpy
+pydantic
+pydantic-settings
+python-dotenv
+psutil
+
+[dev]
+pytest
+ruff
